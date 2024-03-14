@@ -1,0 +1,9 @@
+{
+ 
+    "mongoURI" : "mongodb+srv://S0KY:putYourPassword@cluster0.kfb54mb.mongodb.net/test?retryWrites=true&w=majority" , 
+    "jwtSecret" : "mysecrettoken" , 
+    "githubSecret" : "putYourSecret " , 
+    "githubClientId" : "putYourClientId" 
+
+                
+}
